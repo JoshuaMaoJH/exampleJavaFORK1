@@ -4,7 +4,7 @@ public class Multiply {
 
   /**
    * Multiply two integer numbers.
-   *
+   *joshua love this
    * @param a the first integer number.
    * @param b the second integer number.
    * @return the multiply of two integer numbers.
